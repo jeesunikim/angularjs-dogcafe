@@ -26,7 +26,19 @@
 			image:
 			{
 				thumb:'img/german-shepherd.jpg'
+			},
+			reviews:[
+			{
+				stars:5,
+				body:"I love this dog",
+				author:"joe@black.com"
+			},
+			{
+				stars:5,
+				body:"German Sheperd is the best",
+				author:"puppy@dog.com"
 			}
+			]
 		},
 		{
 			breed: 'French Bulldog',
